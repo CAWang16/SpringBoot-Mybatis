@@ -1,0 +1,4 @@
+com\example\SpringbootMybatis02\SpringbootMybatis02Application.class
+com\example\entity\Student.class
+com\example\controller\StudentHandler.class
+com\example\repository\StudentRepository.class
